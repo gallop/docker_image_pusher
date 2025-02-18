@@ -1,2 +1,2 @@
-mysql:5.7.20
-nginx
+apache/doris.fe-ubuntu:3.0.1
+apache/doris.be-ubuntu:3.0.1
